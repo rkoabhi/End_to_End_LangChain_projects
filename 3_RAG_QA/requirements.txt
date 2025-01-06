@@ -1,0 +1,9 @@
+#  conda create -p venv python==3.10 -y
+#  conda activate .\venv\
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain_groq
